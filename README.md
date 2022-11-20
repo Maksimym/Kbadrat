@@ -1,9 +1,9 @@
 # KBadrat
 import turtle
-i = "input()"
-while i == "input()":
+while True:
+    i = raw_input()
     if i == "exit":
-        input()
+        break
     if i == "fd":
         turtle.fd(1)
     if i == "bk": 
