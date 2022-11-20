@@ -1,4 +1,4 @@
-# Kbadrat
+# KBadrat
 import turtle
 i = "input()"
 while i == "input()":
